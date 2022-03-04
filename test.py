@@ -1,3 +1,6 @@
-print('dupaxD')
-print('dupax D')
-print('kruca')
+print('nie działaxD')
+
+d = 1
+
+u= 4
+
